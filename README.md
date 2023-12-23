@@ -20,5 +20,9 @@ Penjelasan struktur aplikasi secara umum dapat di lihat pada website CodeIgniter
 - `application/views/*`
 - `application/config/routes.php`
 
+Mengingat user OAuth2 google untuk project dengan status development terbatas, silahkan gunakan akun berikut untuk pengujian:
+- email: fine.final.assertion@gmail.com
+- password: L3T-!T-b3g!n-FFS!!!
+
 ### Catatan
 Saya tidak menugganakan Laravel sesuai rekomendasi perusahaan karena fokus saya di backend yang menggunakan bahasa pemrograman Go. Untuk FE saya menyesuaikan project terakhir saya yang menggunakan Codeigniter dengan pertimbangan menghemat waktu, selain itu relatif lebih minim-configuration.
